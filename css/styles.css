@@ -1,0 +1,137 @@
+.body {
+  font-family: Roboto;
+  color: #2e2f42;
+}
+/* HEDER */
+.background-heder {
+  background: #fff;
+}
+.logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 116.667%;
+  text-transform: uppercase;
+}
+.logo .accent {
+  color: #4d5ae5;
+}
+.nav-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 150%;
+}
+.nav-link:active {
+  color: #404bbf;
+}
+.address-mail,
+.addres-tel {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  font-style: normal;
+}
+.address-mail:hover,
+.addres-tel:hover {
+  color: #404bbf;
+}
+.address-mail:focus,
+.addres-tel:focus {
+  color: #404bbf;
+}
+/* section title */
+.order-background {
+  width: 1440px;
+  height: 600px;
+  background-color: #2e2f42;
+}
+.order-title {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 107.143%;
+}
+.order-button {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 150%;
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: flex-start;
+  gap: 10px;
+}
+.order-button:hover {
+  background: #404bbf;
+}
+/* section about company */
+.company-list {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%;
+}
+.company-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+}
+/* section our team */
+.team-background {
+  background-color: #f4f4fd;
+  width: 1440px;
+  height: 732px;
+}
+.team-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 111.111%;
+}
+.team-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%;
+}
+.team-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+}
+.portfolio-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.portfolio-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 120%;
+}
+.portfolio-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+}
+/* footer */
+.footer-background {
+  width: 1440px;
+  height: 312px;
+  background: #2e2f42;
+}
+.footer-logo {
+  color: #F4F4FD;
+font-weight: 100;
+}
+.footer-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  color: #F4F4FD;
+}
