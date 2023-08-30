@@ -4,7 +4,7 @@
 }
 /* HEDER */
 .background-heder {
-  background: #fff;
+  background-color: #fff;
 }
 .logo {
   font-family: Raleway;
@@ -59,15 +59,16 @@
   font-weight: 500;
   line-height: 150%;
   border-radius: 4px;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   display: inline-flex;
   padding: 16px 32px;
   align-items: flex-start;
   gap: 10px;
+  cursor: pointer;
 }
 .order-button:hover {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 /* section about company */
 .company-list {
