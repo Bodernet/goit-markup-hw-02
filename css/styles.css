@@ -25,7 +25,7 @@
 .nav-link:active {
   color: #404bbf;
 }
-.address-mail,
+.contacts-email,
 .contacts-number {
   color: #434455;
   font-size: 16px;
@@ -33,12 +33,12 @@
   line-height: 150%;
   font-style: normal;
 }
-.address-mail:hover,
+.contacts-email:hover,
 .contacts-number:hover {
   color: #404bbf;
 }
-.address-mail:focus,
-.contacts-number:focus {
+.contacts-email:focus,
+.addres-tel:focus {
   color: #404bbf;
 }
 /* section title */
@@ -85,7 +85,7 @@
 .team-background {
   background-color: #f4f4fd;
   width: 1440px;
-  height: 1732px;   /* змінити на 732 */
+  height: 1732px; /* змінити на 732 */
 }
 .team-title {
   font-size: 36px;
