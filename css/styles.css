@@ -82,7 +82,7 @@ ul {
   cursor: pointer;
 }
 .order-button:hover {
-  background-color: var(--color-hover) f;
+  background-color: var(--color-hover);
 }
 .order-button:focus {
   background-color: var(--color-hover);
